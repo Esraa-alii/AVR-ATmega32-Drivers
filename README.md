@@ -18,6 +18,10 @@ you can get the datasheet via [link for datasheet](https://pdf1.alldatasheet.com
   8. SPI
   9. UART
   10. Ultrasonic sensor
+  11. EEPROM
+  12. Timer (0,1,2)
+  13. buzzer
+  14. PWM
 
 ### Helpful Files:
   1. `Common_Macros.h`: It has common macros that help to build drivers and applications more easily ex: Set_Bit....etc.
