@@ -1,7 +1,7 @@
 # AVR-ATmega32-Drivers
 <div >
-<img src="https://cdn1-shop.mikroe.com/img/product/atmega32/atmega32-thickbox_default-12x.jpg" width="200px" height="200px">
-<img src="https://www.robomart.com/image/catalog/RM0076/01.png" width="200px" height="200px">
+<img src="https://cdn1-shop.mikroe.com/img/product/atmega32/atmega32-thickbox_default-12x.jpg" width="300px" height="200px">
+<img src="https://www.robomart.com/image/catalog/RM0076/01.png" width="300px" height="200px">
 </div>
 
 #### This is a repository for peripheral and Module drivers for AVR Atmega32 
